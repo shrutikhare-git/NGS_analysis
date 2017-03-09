@@ -12,5 +12,5 @@ Please refer to the file 'Analysis_Workflow.docx' for detailed description of th
 
 
 
-# Created by Shruti Khare, Prof. Raghavan Varadarajan Lab, Indian Institute od Science on March 10th, 2017.
-# For queries contact shrutikhare@mbu.iisc.ernet.in OR varadar@mbu.iisc.ernet.in
+ Created by Shruti Khare, Prof. Raghavan Varadarajan Lab, Indian Institute of Science on March 10th, 2017.
+ For queries contact shrutikhare@mbu.iisc.ernet.in OR varadar@mbu.iisc.ernet.in
